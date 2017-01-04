@@ -1,3 +1,4 @@
 # editor-demo
-A repo to test bytedev's text editor.
-Testing single modification
+A repo to test bytedev's text editor.  
+Testing single modification  
+Second Modification
